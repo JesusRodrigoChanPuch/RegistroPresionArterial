@@ -19,6 +19,5 @@ Presion por minuto
 Nota: Esta app fue creado para personas que necesitan mantener un registro de su presion artenrial continua
 Proximas actualizaciones para compativilidad con IOS  
 <b>Imagenes:<b>
-![](../../../OneDrive/OneDrive%20-%20officeapp.org/Pictures/Watsapp/Mivil1.jpeg)
-
-[](../../../OneDrive/OneDrive%20-%20officeapp.org/Pictures/Watsapp/movil2.jpeg%0D) ![](../../../OneDrive/OneDrive%20-%20officeapp.org/Pictures/Watsapp/Mivil1.jpeg) 
+<img src="movil1.jpeg">
+<img src="movil2.jpeg">

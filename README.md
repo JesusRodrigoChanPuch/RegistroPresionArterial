@@ -1,4 +1,5 @@
-Aplicación Movil
+<h1 align="center"> Aplicación Movil Creada con React Native</h1>
+
 Creador: Jesus Rodrigo Chan Puch
 Herramienta: React Native
 Descripcion:

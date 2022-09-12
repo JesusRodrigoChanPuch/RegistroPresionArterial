@@ -19,5 +19,8 @@ Presion por minuto
 Nota: Esta app fue creado para personas que necesitan mantener un registro de su presion artenrial continua
 Proximas actualizaciones para compativilidad con IOS  
 <b>Imagenes:<b>
-![Mivil1](https://user-images.githubusercontent.com/60444896/189574643-b79da73a-017b-4f2c-87cb-43d0237ab366.jpeg)
-![movil2](https://user-images.githubusercontent.com/60444896/189574647-9ee0499e-4717-4f71-8f90-314e9b428c4e.jpeg)
+<img src="RegistroPresionArterial/public/img/movil1.jpeg">
+
+
+<!-- ![Mivil1](https://user-images.githubusercontent.com/60444896/189574643-b79da73a-017b-4f2c-87cb-43d0237ab366.jpeg)
+![movil2](https://user-images.githubusercontent.com/60444896/189574647-9ee0499e-4717-4f71-8f90-314e9b428c4e.jpeg) -->
